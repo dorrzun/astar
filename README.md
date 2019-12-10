@@ -1,4 +1,4 @@
-# Astar* Pathfinding Algorithm
+# A* (A-Star) Pathfinding Algorithm
 ### Author: Austin Youngerman
   
 This code produces a working implementation of the A Star pathfinding algorithm, which finds the shortest path to a given finish, if there is any. The heuristic is F(x) = g(x) + h(x), where:
